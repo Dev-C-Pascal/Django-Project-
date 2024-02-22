@@ -1,2 +1,3 @@
-import django
-print(django.get_version())
+# import django
+# print(django.get_version())
+
